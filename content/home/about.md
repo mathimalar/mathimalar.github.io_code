@@ -10,38 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Deep Learning",
-    "Reinforcement Learning",
-    "Computational Complexity Theory",
-    "Combinatorics, Algebra & Probability"
+    "Topological Supercondutor",
+    "Majorana Fermion",
+    "Spin Caloritronics",
+    "Detector Physics",
+    "Low Temperature Physics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Postdoctoral Research"
-  institution = "Weizmann Institute of Science, Israel"
-  year = 2016
-
-[[education.courses]]
-  course = "PhD in Computer Science"
-  institution = "Tata Institute of Fundamental Research, Mumbai"
+  course = "PhD in Physics"
+  institution = "India-Based Neutrino Observatory (INO) at Tata Institute of Fundamental Research, Mumbai"
   year = 2015
 
 [[education.courses]]
-  course = "MS in Computer Science"
-  institution = "Tata Institute of Fundamental Research, Mumbai"
-  year = 2011
+  course = "MSc in Physics"
+  institution = "Bharathidasan University, Trichy, Tamilnadu"
+  year = 2009
 
 [[education.courses]]
-  course = "BTech in Computer Science & Eng."
-  institution = "National Institute of Technology Calicut"
-  year = 2008
+  course = "BSc in Physics"
+  institution = "Seethalakshmi Ramaswamy College, Trichy, Tamilnadu"
+  year = 2007
  
 +++
 
 
-<h1>Hi!,</h1>
-I am a scientist of Machine Learning at the [Machine Learning Lab](http://mll.iiit.ac.in/) at [IIIT Hyderabad](http://iiit.ac.in/). My primary research topic is Deep Learning, specifically [Model Compression](/project/model-compression/) techniques, Semantic Segmentation for Autonomous Navigation and [Reinforcement Learning](/project/deep-reinforcement-learning/).
+<h1>Hello</h1>
+I am a Post-doctoral Researcher working with  [Karthik V Raman](https://www.tifrh.res.in/~raman) at [TIFR Hyderabad](https://www.tifrh.res.in/). My primary research topic is Material Science, currently working with MgB2 using sputtering set up.
 
-Previously I did my [Phd thesis](/publication/thesis/) on Computational Complexity theory and continues to have interest in [Complexity theory](/project/pcps/), Combinatorics and Graph theory.
+Previously I did my [Phd thesis](http://www.ino.tifr.res.in/ino/theses/Thesis_Mathimalar.pdf) on NTD Ge sensor development for
+superconducting bolometers.  In which, I had developed the Neutron Transmutation Doped Ge (NTD Ge) sensor for the superconducting Tin absorber which will be operating at 10mK. The NTD Ge sensors will be employed to detect the thermal pulse of the rare event decay called Neutrinoless Double Beta Decay (NDBD) in 124Sn absorber. The experiment The [INdia's TIN detector (TIN.TIN)](http://www.tifr.res.in/~tin.tin/) will be housed at the upcoming [India-based Neutrino Observatory (INO)](http://www.ino.tifr.res.in/ino/). 

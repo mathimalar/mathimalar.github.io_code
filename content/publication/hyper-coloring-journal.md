@@ -1,9 +1,9 @@
 +++
-title = "Super-polylogarithmic hypergraph coloring hardness via low-degree long codes"
+title = "Characterization of neutron transmutation doped (NTD) Ge for low temperature sensor development"
 date = "2017-02-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Venkat Guruswami", "Prahladh Harsha", "Johan Hastad", "Srikanth Srinivasan", "Girish Varma"]
+authors = ["S. Mathimalar", "V. Singh", "N. Dokania", "etal."]
 
 # Publication type.
 # Legend:
@@ -16,8 +16,8 @@ authors = ["Venkat Guruswami", "Prahladh Harsha", "Johan Hastad", "Srikanth Srin
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = "*SIAM Journal on Computing*."
-publication_short = "*SICOMP*"
+publication = "*Nucl. Inst. Meth. B*."
+publication_short = "*Nucl. Inst. Meth. B*"
 
 # Abstract and optional shortened version.
 abstract = ""

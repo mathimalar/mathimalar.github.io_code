@@ -1,9 +1,9 @@
 +++
-title = "Hardness of Approximate Coloring"
+title = "NTD Ge sensor development for superconducting bolometers"
 date = "2016-12-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Girish Varma"]
+authors = [ "S. Mathimalar"]
 
 # Publication type.
 # Legend:
@@ -34,14 +34,14 @@ selected = true
 projects = ["hardness", "pcps"]
 
 # Links (optional).
-url_pdf =  "https://pdfs.semanticscholar.org/45a0/63f265b3baa41161d959fc7417804cfbc508.pdf"
+url_pdf =  "http://www.ino.tifr.res.in/ino/theses/Thesis_Mathimalar.pdf"
 #url_preprint = "http://arxiv.org/abs/1104.0848"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-url_slides = "https://www.dropbox.com/s/yqorpugnzfdocue/slides.pdf?dl=0"
+#url_slides = "https://www.dropbox.com/s/yqorpugnzfdocue/slides.pdf?dl=0"
 #url_video = "#"
-url_poster = "https://www.dropbox.com/s/1ksyr95lpvc4m8a/poster.pdf?dl=0"
+#url_poster = "https://www.dropbox.com/s/1ksyr95lpvc4m8a/poster.pdf?dl=0"
 #url_source = "#"
 
 # Custom links (optional).

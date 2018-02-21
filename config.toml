@@ -1,6 +1,6 @@
-baseurl = "http://geevi.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "gv"
-copyright = "&copy; 2017 Girish Varma"
+baseurl = "http://mathimalar.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+title = "S Mathimalar"
+copyright = "&copy; 2018 Mathimalar"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -41,17 +41,17 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Girish Varma"
-  role = "Senior Project Scientist"
+  name = "S Mathimalar"
+  role = "Post-doctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Machine Learning Lab", url = "http://mll.iiit.ac.in/" }, { name = "Kohli Center for Inteligent Systems", url = "http://kcis.iiit.ac.in/" }, { name = "IIIT Hyderabad", url = "http://iiit.ac.in/" } ]
+  organizations = [ { name = "Raman Lab", url = "https://www.tifrh.res.in/~raman/index.php/people/" }, { name = "Tata Institute of Fundamental Research, Hyderabad", url = "https://www.tifrh.res.in/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "girish.varma [at] iiit [dot] ac [dot] in"
-  address = "2nd Floor, Kohli Research Block, IIIT Hyderabad, Gachibowli - 500032, Hyderabad"
+  email = "mathi [at] tifrh [dot] res [dot] in"
+  address = "TIFR Hyderabad, Gopanapalli, Hyderabad"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -204,15 +204,15 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:girish.varma@iiit.ac.in"
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fa"
+  #   link = "mailto:girish.varma@iiit.ac.in"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/girishvarma"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fa"
+  #   link = "//twitter.com/girishvarma"
 
   [[params.social]]
     icon = "google-scholar"
@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/geevi"
+    link = "//github.com/mathimalar"
 
 
 # Navigation Links
@@ -241,26 +241,26 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 2
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 3
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 4
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 5
+# [[menu.main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 5
 
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 6
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 6
 
 [[menu.main]]
   name = "Contact"

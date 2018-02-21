@@ -1,9 +1,9 @@
 +++
-title = "Reducing uniformity in Khot-Saket hypergraph coloring hardness reductions"
+title = "Study of radioactive impurities in neutron transmutation doped germanium"
 date = "2015-05-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Girish Varma"]
+authors = [ "S.Mathimalar", "N.Dokania", "V.Singh", "etal."]
 
 
 # Publication type.
@@ -17,8 +17,8 @@ authors = [ "Girish Varma"]
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = "*Chicago J. Theor. Comput. Sci*."
-publication_short = "*Chicago J. Theor. Comput. Sci*"
+publication = "*Nucl. Inst. Meth. A*."
+publication_short = "*Nucl. Inst. Meth. A*"
 
 # Abstract and optional shortened version.
 abstract = ""

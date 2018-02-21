@@ -3,13 +3,13 @@
 date = "2017-11-15"
 
 # Project title.
-title = "XNet : Efficient Deep Networks"
+title = "NTD Ge Sensor Development"
 
 # Project summary to display on homepage.
-summary = "Use Expander graphs for making Deep Neural Networks Efficient"
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "bubbles.jpg"
+image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,9 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/bubbles-wide.jpg"
+image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
 
 +++
 
+sdlfjslkjfads

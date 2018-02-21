@@ -1,9 +1,12 @@
 +++
-title = "Streaming Algorithms for Some Problems in Log-Space"
+title = "Development of NTD Ge sensors for low temperature thermometry"
 date = "2010-01-01"
 
+     
+
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ajesh Babu", "Nutan Limaye", "Girish Varma"]
+authors = ["S. Mathimalar", "V. Singh", "N. Dokania", "etal."]
 
 # Publication type.
 # Legend:
@@ -17,8 +20,8 @@ authors = ["Ajesh Babu", "Nutan Limaye", "Girish Varma"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "* Theory and Applications of Models of Computation (TAMC)*."
-publication_short = "*TAMC*"
+publication = "* International Workshop on Low Temperature Electronics 2014*."
+publication_short = "*International Workshop on Low Temperature Electronics 2014*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -27,7 +30,7 @@ abstract = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
