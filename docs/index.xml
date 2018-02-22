@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Mathimalar</copyright>
-    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -1771,6 +1771,15 @@ See &lt;a href=&#34;http://www.cs.utexas.edu/~klivans/f06lec2.pdf&#34; target=&#
     
 
 </description>
+    </item>
+    
+    <item>
+      <title>Development of NTD Ge sensors for low temperature thermometry (for Neutrinoless Double Beta Decay)</title>
+      <link>http://mathimalar.github.io/talk/ntdge-sensors2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mathimalar.github.io/talk/ntdge-sensors2/</guid>
+      <description></description>
     </item>
     
     <item>

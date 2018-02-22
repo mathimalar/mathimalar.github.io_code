@@ -1,14 +1,14 @@
 +++
 #date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "PhD Defence"
-time_start = 2015-12-14
+title = "Development of NTD Ge sensors for low temperature thermometry (for Neutrinoless Double Beta Decay)"
+time_start = 2015-09-11
 #time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "TIFR Mumbai"
-#event_url = "http://cvit.iiit.ac.in/mlsummerschool2017/"
-#location = "IIIT Hyderabad"
+event = "Oral Presentation at International Workshop on Low Temperature Electronics (WOLTE) , Grenoble 2015"
+#event_url = "http://ibss2015.ieeebombay.org/"
+location = "Bombay"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -16,11 +16,11 @@ selected = true
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = ["ntdge"]
+# projects = ["ntdge"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "pdfs/Mathi_Defence.pdf"
+url_slides = "pdfs/Mathi_WOLTE.pdf"
 url_video = ""
 url_code = ""
 

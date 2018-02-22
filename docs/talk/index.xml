@@ -11,6 +11,15 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Development of NTD Ge sensors for low temperature thermometry (for Neutrinoless Double Beta Decay)</title>
+      <link>http://mathimalar.github.io/talk/ntdge-sensors2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mathimalar.github.io/talk/ntdge-sensors2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NTD Ge sensors for low-temperature thermometry (for Neutrinoless Double Beta Decay)</title>
       <link>http://mathimalar.github.io/talk/ntdge-sensors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
