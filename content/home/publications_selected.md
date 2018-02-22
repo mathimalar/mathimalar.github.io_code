@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20
 
 title = "Selected Publications"
-subtitle = ""
+subtitle = "[All Publications](https://scholar.google.co.in/citations?user=PaVORLwAAAAJ&hl=en)"
 
 # Order that this section will appear in.
 weight = 10
@@ -30,4 +30,3 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-
