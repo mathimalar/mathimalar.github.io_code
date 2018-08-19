@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Proximity Induced Superconductor",
     "Topological Superconductor",
     "Majorana Fermion",
     "Spin Caloritronics",
